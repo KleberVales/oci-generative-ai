@@ -28,10 +28,10 @@
 |-----|--------------------------------|
 | 07  | [Amazon Bedrock]()             |
 | 08  | [Bedrock Foundation Models]()  |
-| 09  |                                | 
-| 10  |                                | 
-| 11  |                                | 
-| 12  |                                | 
+| 09  | [Bedrock Custom Models]()      | 
+| 10  | [Bedrock Provisioned Throughput ]()| 
+| 11  | [Bedrock Prompt Management]()  | 
+| 12  | [Bedrock security model]()     | 
 
 ---
 
