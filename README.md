@@ -22,6 +22,8 @@
 | 11  | Prompt Engineering             | [11 Prompt Engineering](https://github.com/KleberVales/oci-generative-ai-guide/wiki/11-Prompt-Engineering) |
 | 12  | OCI Generative AI Security     | [12 OCI Generative AI Security](https://github.com/KleberVales/oci-generative-ai-guide/wiki/12-OCI-Generative-AI-Security) |
 
+---
+
 ## Retrieval Augmented Generation
 
 | Nº  | Página                       | Link |
