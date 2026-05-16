@@ -31,8 +31,9 @@
 | 13  | Retrieval Augmented Generation | [13 Retrieval Augmented Generation](https://github.com/KleberVales/oci-generative-ai-guide/wiki/13-Retrieval-Augmented-Generation) |
 | 14  | LangChain                    | [14 LangChain](https://github.com/KleberVales/oci-generative-ai-guide/wiki/14-LangChain) |
 
-## Chatbot using Generative AI Agent service
 ---
+
+## Chatbot using Generative AI Agent service
 
 | Nº  | Página                      | Link |
 |-----|-----------------------------|------|
