@@ -26,8 +26,8 @@
 
 | Nº  | Página                         | Link |
 |-----|--------------------------------|------|
-| 07  | OCI Generative AI              | [07 OCI Generative AI](https://github.com/KleberVales/oci-generative-ai-guide/wiki/07-OCI-Generative-AI) |
-| 08  | Pre-Trained Foundational Models | [08 Pre-Trained Foundational Models](https://github.com/KleberVales/oci-generative-ai-guide/wiki/08-Pre‐Trained-Foundational-Models) |
+| 07  | Amazon Bedrock               | [07 OCI Generative AI](https://github.com/KleberVales/oci-generative-ai-guide/wiki/07-OCI-Generative-AI) |
+| 08  | Bedrock Foundation Models   | [08 Pre-Trained Foundational Models](https://github.com/KleberVales/oci-generative-ai-guide/wiki/08-Pre‐Trained-Foundational-Models) |
 | 09  | Training OCI                   | [09 Training OCI](https://github.com/KleberVales/oci-generative-ai-guide/wiki/09-Training-OCI) |
 | 10  | Dedicated AI Clusters          | [10 Dedicated AI Clusters](https://github.com/KleberVales/oci-generative-ai-guide/wiki/10-Dedicated-AI-Clusters) |
 | 11  | Prompt Engineering             | [11 Prompt Engineering](https://github.com/KleberVales/oci-generative-ai-guide/wiki/11-Prompt-Engineering) |
