@@ -52,6 +52,10 @@
 
 ## Amazon Bedrock Agents
 
+| Nº  | Página                      | Link |
+|-----|-----------------------------|------|
+| 15  | Amazon Bedrock Agents  | [Amazon Bedrock Agents]() |
+
 ---
 
 ## ✉️ Contact
