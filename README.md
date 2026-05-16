@@ -26,8 +26,8 @@
 
 | Nº  | Página                         | 
 |-----|--------------------------------|
-| 07  | Amazon Bedrock                 |
-| 08  | Bedrock Foundation Models      |
+| 07  | [Amazon Bedrock]()             |
+| 08  | [Bedrock Foundation Models]()  |
 | 09  |                                | 
 | 10  |                                | 
 | 11  |                                | 
