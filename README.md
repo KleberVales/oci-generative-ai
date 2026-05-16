@@ -24,14 +24,14 @@
 
 ## Amazon Bedrock
 
-| Nº  | Página                         | Link |
-|-----|--------------------------------|------|
-| 07  | Amazon Bedrock               | [Amazon Bedrock]() |
-| 08  | Bedrock Foundation Models   | [Bedrock Foundation Models](https://github.com/KleberVales/oci-generative-ai-guide/wiki/08-Pre‐Trained-Foundational-Models) |
-| 09  |                    | []() |
-| 10  |           | []() |
-| 11  |              | []() |
-| 12  |      | []() |
+| Nº  | Página                         | 
+|-----|--------------------------------|
+| 07  | Amazon Bedrock                 |
+| 08  | Bedrock Foundation Models      |
+| 09  |                                | 
+| 10  |                                | 
+| 11  |                                | 
+| 12  |                                | 
 
 ---
 
