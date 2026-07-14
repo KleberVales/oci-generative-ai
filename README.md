@@ -9,7 +9,6 @@
 
 ## 2. OCI Generative AI Service
 
-| Nº  | Página                         | Link |
 |-----|--------------------------------|------|
 | 07  | OCI Generative AI              | [07 OCI Generative AI](https://github.com/KleberVales/oci-generative-ai-guide/wiki/07-OCI-Generative-AI) |
 | 08  | Pre-Trained Foundational Models | [08 Pre-Trained Foundational Models](https://github.com/KleberVales/oci-generative-ai-guide/wiki/08-Pre‐Trained-Foundational-Models) |
