@@ -14,22 +14,9 @@
 ## 2.3 Training OCI                 
 ## 2.4 Dedicated AI Clusters         
 ## 2.5 Prompt Engineering           
-| 12  | OCI Generative AI Security     | [12 OCI Generative AI Security](https://github.com/KleberVales/oci-generative-ai-guide/wiki/12-OCI-Generative-AI-Security) |
+## 2.6 OCI Generative AI Security   
 
-## Amazon Bedrock
-
-| Nº  | Página                         | 
-|-----|--------------------------------|
-| 07  | [Amazon Bedrock]()             |
-| 08  | [Bedrock Foundation Models]()  |
-| 09  | [Bedrock Custom Models]()      | 
-| 10  | [Bedrock Provisioned Throughput ]()| 
-| 11  | [Bedrock Prompt Management]()  | 
-| 12  | [Bedrock security model]()     | 
-
----
-
-## Retrieval Augmented Generation
+# 3. Retrieval Augmented Generation
 
 | Nº  | Página                       | Link |
 |-----|------------------------------|------|
