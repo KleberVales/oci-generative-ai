@@ -1,7 +1,7 @@
 # 1. Fundamentals of Large Language Models
 
 ## 1.1 LLMs
-| 02 | Architectures | [02 Architectures](https://github.com/KleberVales/oci-generative-ai-guide/wiki/02-Architectures) |
+## 1.2 Architectures 
 | 03 | Prompting | [03 Prompting](https://github.com/KleberVales/oci-generative-ai-guide/wiki/03-Prompting) |
 | 04 | Training | [04 Training](https://github.com/KleberVales/oci-generative-ai-guide/wiki/04-Training) |
 | 05 | Hallucination | [05 Hallucination](https://github.com/KleberVales/oci-generative-ai-guide/wiki/05-Hallucination) |
