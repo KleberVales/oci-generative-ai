@@ -3,7 +3,7 @@
 ## 1.1 LLMs
 ## 1.2 Architectures 
 ## 1.3 Prompting 
-| 04 | Training | [04 Training](https://github.com/KleberVales/oci-generative-ai-guide/wiki/04-Training) |
+## 1.4 Training
 | 05 | Hallucination | [05 Hallucination](https://github.com/KleberVales/oci-generative-ai-guide/wiki/05-Hallucination) |
 | 06 | LLM Applications | [06 LLM Applications](https://github.com/KleberVales/oci-generative-ai-guide/wiki/06-LLM-Applications) |
 
