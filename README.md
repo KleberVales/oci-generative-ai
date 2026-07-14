@@ -12,7 +12,7 @@
 ## 2.1 OCI Generative AI              
 ## 2.2 Pre-Trained Foundational Models 
 ## 2.3 Training OCI                 
-| 10  | Dedicated AI Clusters          | [10 Dedicated AI Clusters](https://github.com/KleberVales/oci-generative-ai-guide/wiki/10-Dedicated-AI-Clusters) |
+## 2.4 Dedicated AI Clusters         
 | 11  | Prompt Engineering             | [11 Prompt Engineering](https://github.com/KleberVales/oci-generative-ai-guide/wiki/11-Prompt-Engineering) |
 | 12  | OCI Generative AI Security     | [12 OCI Generative AI Security](https://github.com/KleberVales/oci-generative-ai-guide/wiki/12-OCI-Generative-AI-Security) |
 
