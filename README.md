@@ -4,12 +4,10 @@
 ## 1.2 Architectures 
 ## 1.3 Prompting 
 ## 1.4 Training
-| 05 | Hallucination | [05 Hallucination](https://github.com/KleberVales/oci-generative-ai-guide/wiki/05-Hallucination) |
-| 06 | LLM Applications | [06 LLM Applications](https://github.com/KleberVales/oci-generative-ai-guide/wiki/06-LLM-Applications) |
+## 1.5 Hallucination
+## 1.6 LLM Applications
 
----
-
-## OCI Generative AI Service
+## 2. OCI Generative AI Service
 
 | Nº  | Página                         | Link |
 |-----|--------------------------------|------|
