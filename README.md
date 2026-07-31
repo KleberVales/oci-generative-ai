@@ -86,7 +86,7 @@
 
 ## 2.6 Agentic AI for Oracle AI Database
 
-Module Intro
+### 2.6.1 Module Intro
 
 Agentic AI for Oracle AI Database
 
