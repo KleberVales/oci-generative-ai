@@ -43,6 +43,9 @@
 ## 2.2 LangChain for AI Agents
 
 ### 2.2.1 Module Intro
+### 2.2.2 Introduction to LangChain
+
+○ 
 
 ○ 
 
