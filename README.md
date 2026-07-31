@@ -68,8 +68,7 @@
 ### 2.4.4 OpenAI Agents SDK
 ### 2.4.5 Demo: Responses API and Agents SDK
 ### 2.4.6 Tools and Function Calling
-
-Multi Agent System with Handoffs
+### 2.4.7 Multi Agent System with Handoffs
 
 Guardrails and Safety
 
