@@ -4,7 +4,7 @@
 
 ### 1.2.1 LLMs
 ### 1.2.2 Architectures 
-### 1.3 Prompting 
+### 1.2.3 Prompting 
 ### 1.4 Training
 ### 1.5 Hallucination
 ### 1.6 LLM Applications
