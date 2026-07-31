@@ -11,12 +11,12 @@
 
 ## 1.2 OCI Generative AI Service
 
-## 2.1 OCI Generative AI              
-## 2.2 Pre-Trained Foundational Models 
-## 2.3 Training OCI                 
-## 2.4 Dedicated AI Clusters         
-## 2.5 Prompt Engineering           
-## 2.6 OCI Generative AI Security   
+### 2.1 OCI Generative AI              
+### 2.2 Pre-Trained Foundational Models 
+### 2.3 Training OCI                 
+### 2.4 Dedicated AI Clusters         
+### 2.5 Prompt Engineering           
+### 2.6 OCI Generative AI Security   
 
 # 3. Retrieval Augmented Generation
 
