@@ -2,14 +2,14 @@
 
 ## 1.2 Fundamentals of Large Language Models
 
-### 1.2.1 LLMs
-### 1.2.2 Architectures 
-### 1.2.3 Prompting 
-### 1.2.4 Training
-### 1.2.5 Hallucination
-### 1.2.6 LLM Applications
+### 1.1.1 LLMs
+### 1.1.2 Architectures 
+### 1.1.3 Prompting 
+### 1.1.4 Training
+### 1.1.5 Hallucination
+### 1.1.6 LLM Applications
 
-# 2. OCI Generative AI Service
+## 2. OCI Generative AI Service
 
 ## 2.1 OCI Generative AI              
 ## 2.2 Pre-Trained Foundational Models 
