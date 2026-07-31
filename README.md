@@ -37,6 +37,7 @@
 ### 2.1.2 What is an AI Agent
 ### 2.1.3 AI Agent Core Components
 ### 2.1.4 Reasoning Patterns
+### 2.1.5 Your First AI Agent Walkthrough
 
 
 ---
