@@ -23,9 +23,9 @@
 ### 1.3.1 Retrieval Augmented Generation 
 ### 1.3.2 LangChain                    
 
-## 4. Chatbot using Generative AI Agent service
+## 1.4 Chatbot using Generative AI Agent service
 
-### 4.1 Oracle Generative AI Agent  
+### 1.4.1 Oracle Generative AI Agent  
 
 ---
 
