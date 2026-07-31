@@ -44,6 +44,9 @@
 
 ### 2.2.1 Module Intro
 ### 2.2.2 Introduction to LangChain
+### 2.2.3 Demo: LangChain Building Blocks
+
+○ 
 
 ○ 
 
