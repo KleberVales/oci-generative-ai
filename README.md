@@ -81,8 +81,7 @@
 ### 2.5.4 Agentic AI for Enterprises
 ### 2.5.5 OCI Enterprise AI Agents Building Blocks
 ### 2.5.6 Getting Started with OCI Enterprise AI Agents
-
-Demo: OCI Enterprise AI Agents
+### 2.5.7 Demo: OCI Enterprise AI Agents
 
 OCI Enterprise AI Agents - Deploy and Scale
 
