@@ -71,8 +71,7 @@
 ### 2.4.7 Multi Agent System with Handoffs
 ### 2.4.8 Guardrails and Safety
 ### 2.4.9 Putting it All Together
-
-Demo: Customer Support Agent
+### 2.4.10 Demo: Customer Support Agent
 
 6. Agentic AI for OCI Enterprise AI
 
