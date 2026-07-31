@@ -18,7 +18,7 @@
 ### 1.2.5 Prompt Engineering           
 ### 1.2.6 OCI Generative AI Security   
 
-## 3. Retrieval Augmented Generation
+## 1.3 Retrieval Augmented Generation
 
 ### 3.1 Retrieval Augmented Generation 
 ### 3.2 LangChain                    
