@@ -73,7 +73,7 @@
 ### 2.4.9 Putting it All Together
 ### 2.4.10 Demo: Customer Support Agent
 
-6. Agentic AI for OCI Enterprise AI
+## 2.5 Agentic AI for OCI Enterprise AI
 
 Module Intro
 
