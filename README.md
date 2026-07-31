@@ -52,7 +52,7 @@
 
 ## 2.3 Introduction to MCP
 
-Module Intro
+### 2.3.1 Module Intro
 
 What is Model Context Protocol
 
