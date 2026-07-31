@@ -46,6 +46,10 @@
 ### 2.2.2 Introduction to LangChain
 ### 2.2.3 Demo: LangChain Building Blocks
 ### 2.2.4 Building your first agent using LangChain
+### 2.2.5 Demo: Building your first AI Agent
+
+○ 
+
 
 ○ 
 ○ 
