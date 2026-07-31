@@ -3,7 +3,7 @@
 ## 1.2 Fundamentals of Large Language Models
 
 ### 1.2.1 LLMs
-### 1.2 Architectures 
+### 1.2.2 Architectures 
 ### 1.3 Prompting 
 ### 1.4 Training
 ### 1.5 Hallucination
