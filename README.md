@@ -70,8 +70,7 @@
 ### 2.4.6 Tools and Function Calling
 ### 2.4.7 Multi Agent System with Handoffs
 ### 2.4.8 Guardrails and Safety
-
-Putting it All Together
+### 2.4.9 Putting it All Together
 
 Demo: Customer Support Agent
 
