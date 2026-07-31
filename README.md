@@ -69,8 +69,7 @@
 ### 2.4.5 Demo: Responses API and Agents SDK
 ### 2.4.6 Tools and Function Calling
 ### 2.4.7 Multi Agent System with Handoffs
-
-Guardrails and Safety
+### 2.4.8 Guardrails and Safety
 
 Putting it All Together
 
