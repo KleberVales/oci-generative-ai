@@ -20,8 +20,8 @@
 
 ## 1.3 Retrieval Augmented Generation
 
-### 3.1 Retrieval Augmented Generation 
-### 3.2 LangChain                    
+### 1.3.1 Retrieval Augmented Generation 
+### 1.3.2 LangChain                    
 
 ## 4. Chatbot using Generative AI Agent service
 
