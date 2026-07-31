@@ -60,6 +60,64 @@
 ### 2.3.6 Real-world MCP Walkthrough
 ### 2.3.7 Demo: Real World MCP Server
 
+## 2.4 Open AI Responses API and Agents SDK Basics
+
+Module Intro
+
+OpenAI Agent Stack
+
+OpenAI Responses API
+
+OpenAI Agents SDK
+
+Demo: Responses API and Agents SDK
+
+Tools and Function Calling
+
+Multi Agent System with Handoffs
+
+Guardrails and Safety
+
+Putting it All Together
+
+Demo: Customer Support Agent
+
+6. Agentic AI for OCI Enterprise AI
+
+Module Intro
+
+Need for Agent Lifecycle and Runtime
+
+Introduction to OCI Enterprise AI Platform
+
+Agentic AI for Enterprises
+
+OCI Enterprise AI Agents Building Blocks
+
+Getting Started with OCI Enterprise AI Agents
+
+Demo: OCI Enterprise AI Agents
+
+OCI Enterprise AI Agents - Deploy and Scale
+
+7. Agentic AI for Oracle AI Database
+
+Module Intro
+
+Agentic AI for Oracle AI Database
+
+Introduction to Oracle AI Vector Search
+
+Oracle AI Vector Search Workflow
+
+Demo: Oracle AI Vector Search
+
+Oracle AI Database Private Agent Factory
+
+Demo: Private Agent Factory
+
+Oracle Autonomous AI Database MCP Server
+
 ---
 
 ## ✉️ Contact
