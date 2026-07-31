@@ -9,7 +9,7 @@
 ### 1.1.5 Hallucination
 ### 1.1.6 LLM Applications
 
-## 2. OCI Generative AI Service
+## 1.2 OCI Generative AI Service
 
 ## 2.1 OCI Generative AI              
 ## 2.2 Pre-Trained Foundational Models 
