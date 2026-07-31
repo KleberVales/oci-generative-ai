@@ -29,7 +29,7 @@
 
 ---
 
-# Oracle Agentic AI Foundations Associate
+# 2. Oracle Agentic AI Foundations Associate
 
 ---
 
