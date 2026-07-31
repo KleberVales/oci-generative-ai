@@ -67,8 +67,7 @@
 ### 2.4.3 OpenAI Responses API
 ### 2.4.4 OpenAI Agents SDK
 ### 2.4.5 Demo: Responses API and Agents SDK
-
-Tools and Function Calling
+### 2.4.6 Tools and Function Calling
 
 Multi Agent System with Handoffs
 
