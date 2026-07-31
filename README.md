@@ -91,8 +91,7 @@
 ### 2.6.3 Introduction to Oracle AI Vector Search
 ### 2.6.4 Oracle AI Vector Search Workflow
 ### 2.6.5 Demo: Oracle AI Vector Search
-
-Oracle AI Database Private Agent Factory
+### 2.6.6 Oracle AI Database Private Agent Factory
 
 Demo: Private Agent Factory
 
