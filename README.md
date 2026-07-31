@@ -31,6 +31,8 @@
 
 # 2. Oracle Agentic AI Foundations Associate
 
+## 2.1 Introduction to AI Agents
+
 ---
 
 ## ✉️ Contact
