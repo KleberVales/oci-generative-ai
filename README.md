@@ -1,4 +1,6 @@
-# 1. Fundamentals of Large Language Models
+# 1. Oracle Cloud Infrastructure Generative AI Professional
+
+1. Fundamentals of Large Language Models
 
 ## 1.1 LLMs
 ## 1.2 Architectures 
