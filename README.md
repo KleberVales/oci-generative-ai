@@ -53,8 +53,7 @@
 ## 2.3 Introduction to MCP
 
 ### 2.3.1 Module Intro
-
-What is Model Context Protocol
+### 2.3.2 What is Model Context Protocol
 
 MCP Core Components
 
