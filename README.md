@@ -84,7 +84,7 @@
 ### 2.5.7 Demo: OCI Enterprise AI Agents
 ### 2.5.8 OCI Enterprise AI Agents - Deploy and Scale
 
-7. Agentic AI for Oracle AI Database
+## 2.6 Agentic AI for Oracle AI Database
 
 Module Intro
 
