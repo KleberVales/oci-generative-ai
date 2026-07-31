@@ -18,14 +18,14 @@
 ### 1.2.5 Prompt Engineering           
 ### 1.2.6 OCI Generative AI Security   
 
-# 3. Retrieval Augmented Generation
+## 3. Retrieval Augmented Generation
 
-## 3.1 Retrieval Augmented Generation 
-## 3.2 LangChain                    
+### 3.1 Retrieval Augmented Generation 
+### 3.2 LangChain                    
 
-# 4. Chatbot using Generative AI Agent service
+## 4. Chatbot using Generative AI Agent service
 
-## 4.1 Oracle Generative AI Agent  
+### 4.1 Oracle Generative AI Agent  
 
 ---
 
