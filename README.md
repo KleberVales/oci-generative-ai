@@ -54,8 +54,7 @@
 
 ### 2.3.1 Module Intro
 ### 2.3.2 What is Model Context Protocol
-
-MCP Core Components
+### 2.3.3 MCP Core Components
 
 Add MCP Server to your first Agent
 
