@@ -57,8 +57,7 @@
 ### 2.3.3 MCP Core Components
 ### 2.3.4 Add MCP Server to your first Agent
 ### 2.3.5 Demo: MCP server with LangChain Client and Codex
-
-Real-world MCP Walkthrough
+### 2.3.6 Real-world MCP Walkthrough
 
 Demo: Real World MCP Server
 
