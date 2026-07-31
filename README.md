@@ -76,8 +76,7 @@
 ## 2.5 Agentic AI for OCI Enterprise AI
 
 ### 2.5.1 Module Intro
-
-Need for Agent Lifecycle and Runtime
+### 2.5.2 Need for Agent Lifecycle and Runtime
 
 Introduction to OCI Enterprise AI Platform
 
