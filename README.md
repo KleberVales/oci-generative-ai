@@ -50,6 +50,22 @@
 ### 2.2.6 LangChain Agent under the hood - Part 1
 ### 2.2.7 LangChain Agent under the hood - Part 2
 
+## 2.3 Introduction to MCP
+
+Module Intro
+
+What is Model Context Protocol
+
+MCP Core Components
+
+Add MCP Server to your first Agent
+
+Demo: MCP server with LangChain Client and Codex
+
+Real-world MCP Walkthrough
+
+Demo: Real World MCP Server
+
 ---
 
 ## ✉️ Contact
