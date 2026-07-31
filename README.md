@@ -64,8 +64,7 @@
 
 ### 2.4.1 Module Intro
 ### 2.4.2 OpenAI Agent Stack
-
-OpenAI Responses API
+### 2.4.3 OpenAI Responses API
 
 OpenAI Agents SDK
 
