@@ -50,7 +50,7 @@
 
 ## 2.3 Introduction to MCP
 
-### 2.3.2 What is Model Context Protocol
+### 2.3.1 What is Model Context Protocol
 ### 2.3.3 MCP Core Components
 ### 2.3.4 Add MCP Server to your first Agent
 ### 2.3.5 Demo: MCP server with LangChain Client and Codex
