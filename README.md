@@ -59,7 +59,6 @@
 
 ## 2.4 Open AI Responses API and Agents SDK Basics
 
-### 2.4.1 Module Intro
 ### 2.4.2 OpenAI Agent Stack
 ### 2.4.3 OpenAI Responses API
 ### 2.4.4 OpenAI Agents SDK
