@@ -36,7 +36,7 @@
 ### 2.1.1 What is an AI Agent
 ### 2.1.2 AI Agent Core Components
 ### 2.1.3 Reasoning Patterns
-### 2.1.5 Your First AI Agent Walkthrough
+### 2.1.4 Your First AI Agent Walkthrough
 ### 2.1.6 Safety and Guardrails
 
 ## 2.2 LangChain for AI Agents
