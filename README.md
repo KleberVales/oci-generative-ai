@@ -66,7 +66,7 @@
 ### 2.4.5 Tools and Function Calling
 ### 2.4.6 Multi Agent System with Handoffs
 ### 2.4.7 Guardrails and Safety
-### 2.4.9 Putting it All Together
+### 2.4.8 Putting it All Together
 ### 2.4.10 Demo: Customer Support Agent
 
 ## 2.5 Agentic AI for OCI Enterprise AI
