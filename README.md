@@ -55,7 +55,7 @@
 ### 2.3.3 Add MCP Server to your first Agent
 ### 2.3.4 Demo: MCP server with LangChain Client and Codex
 ### 2.3.5 Real-world MCP Walkthrough
-### 2.3.7 Demo: Real World MCP Server
+### 2.3.6 Demo: Real World MCP Server
 
 ## 2.4 Open AI Responses API and Agents SDK Basics
 
