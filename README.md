@@ -62,7 +62,7 @@
 ### 2.4.1 OpenAI Agent Stack
 ### 2.4.2 OpenAI Responses API
 ### 2.4.3 OpenAI Agents SDK
-### 2.4.5 Demo: Responses API and Agents SDK
+### 2.4.4 Demo: Responses API and Agents SDK
 ### 2.4.6 Tools and Function Calling
 ### 2.4.7 Multi Agent System with Handoffs
 ### 2.4.8 Guardrails and Safety
