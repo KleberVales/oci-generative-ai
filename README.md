@@ -45,7 +45,7 @@
 ### 2.2.2 Demo: LangChain Building Blocks
 ### 2.2.3 Building your first agent using LangChain
 ### 2.2.4 Demo: Building your first AI Agent
-### 2.2.6 LangChain Agent under the hood - Part 1
+### 2.2.5 LangChain Agent under the hood - Part 1
 ### 2.2.7 LangChain Agent under the hood - Part 2
 
 ## 2.3 Introduction to MCP
