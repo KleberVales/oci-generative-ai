@@ -81,7 +81,6 @@
 
 ## 2.6 Agentic AI for Oracle AI Database
 
-### 2.6.1 Module Intro
 ### 2.6.2 Agentic AI for Oracle AI Database
 ### 2.6.3 Introduction to Oracle AI Vector Search
 ### 2.6.4 Oracle AI Vector Search Workflow
