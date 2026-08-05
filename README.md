@@ -11,7 +11,7 @@
 
 ## 1.2 OCI Generative AI Service
 
-### 1.2.2 Pre-Trained Foundational Models 
+### 1.2.1 Pre-Trained Foundational Models 
 ### 1.2.3 Training OCI                 
 ### 1.2.4 Dedicated AI Clusters         
 ### 1.2.5 Prompt Engineering           
