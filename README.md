@@ -73,7 +73,7 @@
 
 ### 2.5.1 Need for Agent Lifecycle and Runtime
 ### 2.5.2 Introduction to OCI Enterprise AI Platform
-### 2.5.3 Agentic AI for Enterprises
+### 2.5.3 Introduction to OCI Enterprise AI Agents
 ### 2.5.4 OCI Enterprise AI Agents Building Blocks
 ### 2.5.5 Getting Started with OCI Enterprise AI Agents
 ### 2.5.6 Demo: OCI Enterprise AI Agents
