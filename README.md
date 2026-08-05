@@ -14,7 +14,7 @@
 ### 1.2.1 Pre-Trained Foundational Models 
 ### 1.2.2 Training OCI                 
 ### 1.2.3 Dedicated AI Clusters         
-### 1.2.5 Prompt Engineering           
+### 1.2.4 Prompt Engineering           
 ### 1.2.6 OCI Generative AI Security   
 
 ## 1.3 Retrieval Augmented Generation
