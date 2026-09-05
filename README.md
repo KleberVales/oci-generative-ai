@@ -105,6 +105,11 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
+### Key Knowledge
+
+
+
+
 
 
 
