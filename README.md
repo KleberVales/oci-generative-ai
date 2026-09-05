@@ -118,17 +118,3 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 
 📫 Let's connect? I'm open to collaborations on Cloud, DevOps, and AI projects
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
