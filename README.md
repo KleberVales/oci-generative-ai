@@ -92,6 +92,8 @@
 
 # 3. OCI AI Foundations Associate
 
+## 3.1 AI Foundations
+
 ---
 
 **Kleber Vales**
