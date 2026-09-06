@@ -90,6 +90,10 @@
 
 ---
 
+# 3. OCI AI Foundations Associate
+
+---
+
 **Kleber Vales**
 
 Software Engineer & AI Agents
