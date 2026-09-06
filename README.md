@@ -94,6 +94,7 @@
 
 ## 3.1 AI Foundations
 ## 3.2 Machine Learning Foundations
+## 3.3 Deep Learning Foundations
 
 ---
 
