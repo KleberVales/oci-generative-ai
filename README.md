@@ -93,6 +93,7 @@
 # 3. OCI AI Foundations Associate
 
 ## 3.1 AI Foundations
+## 3.2 Machine Learning Foundations
 
 ---
 
