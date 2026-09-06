@@ -96,6 +96,7 @@
 ## 3.2 Machine Learning Foundations
 ## 3.3 Deep Learning Foundations
 ## 3.4 Generative AI and LLM Foundations
+## 3.5 OCI AI Portfolio
 
 ---
 
