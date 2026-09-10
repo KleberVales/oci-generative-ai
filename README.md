@@ -136,6 +136,11 @@
 
 ## 3.7 OCI AI Services
 
+### 3.7.1 Language Intro
+### 3.7.2 Speech Intro
+### 3.7.3 Vision Intro
+### 3.7.4 Document Understanding
+
 ---
 
 **Kleber Vales**
