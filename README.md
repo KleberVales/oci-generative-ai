@@ -129,6 +129,11 @@
 ### 3.5.5 Responsible AI
 
 ## 3.6 OCI Generative AI Service
+
+### 3.6.1 OCI Generative AI
+### 3.6.2 Vector Search
+### 3.6.3 Select AI
+
 ## 3.7 OCI AI Services
 
 ---
