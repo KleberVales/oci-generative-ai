@@ -93,6 +93,11 @@
 # 3. OCI AI Foundations Associate
 
 ## 3.1 AI Foundations
+
+### 3.1.1 Introduction to AI 
+### 3.1.2 AI - Tasks and Data 
+### 3.1.3 AI vs ML vs DL 
+
 ## 3.2 Machine Learning Foundations
 ## 3.3 Deep Learning Foundations
 ## 3.4 Generative AI and LLM Foundations
