@@ -107,6 +107,11 @@
 ### 3.2.5 Reinforcement Learning
 
 ## 3.3 Deep Learning Foundations
+
+### 3.3.1 Introduction to Deep Learning
+### 3.3.2 Deep Learning Models-Sequence Models
+### 3.3.3 Deep Learning Models - CNN
+
 ## 3.4 Generative AI and LLM Foundations
 ## 3.5 OCI AI Portfolio
 ## 3.6 OCI Generative AI Service
