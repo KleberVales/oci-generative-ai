@@ -113,6 +113,13 @@
 ### 3.3.3 Deep Learning Models - CNN
 
 ## 3.4 Generative AI and LLM Foundations
+
+### 3.4.1 Introduction to Generative AI
+### 3.4.2 Introduction to Large Language Models
+### 3.4.3 Transformers Part-1
+### 3.4.4 Prompt Engineering
+### 3.4.5 Customize LLMs with your data
+
 ## 3.5 OCI AI Portfolio
 ## 3.6 OCI Generative AI Service
 ## 3.7 OCI AI Services
