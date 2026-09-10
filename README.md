@@ -99,6 +99,13 @@
 ### 3.1.3 AI vs ML vs DL 
 
 ## 3.2 Machine Learning Foundations
+
+### 3.2.1 Introduction to Machine Learning
+### 3.2.2 Supervised Learning - Regression
+### 3.2.3 Supervised Learning - Classification
+### 3.2.4 Unsupervised Learning
+### 3.2.5 Reinforcement Learning
+
 ## 3.3 Deep Learning Foundations
 ## 3.4 Generative AI and LLM Foundations
 ## 3.5 OCI AI Portfolio
