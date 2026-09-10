@@ -121,6 +121,13 @@
 ### 3.4.5 Customize LLMs with your data
 
 ## 3.5 OCI AI Portfolio
+
+### 3.5.1 AI Services Overview
+### 3.5.2 ML Services Overview
+### 3.5.3 AI Infrastructure
+### 3.5.4 GPUs and Superclusters in OCI
+### 3.5.5 Responsible AI
+
 ## 3.6 OCI Generative AI Service
 ## 3.7 OCI AI Services
 
