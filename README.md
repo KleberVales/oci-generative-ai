@@ -147,7 +147,7 @@
 
 Software Engineer & AI Agents
 
-Cloud | Microservices | DevOps | Generative AI | methodologies
+Cloud | Microservices | DevOps | Generative AI | methodologies | Architectures
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
