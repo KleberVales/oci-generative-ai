@@ -152,9 +152,9 @@ Cloud | Microservices | DevOps | Generative AI | methodologies | Architectures
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
-🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
-🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
-🏆 **Agentic AI Certified Fundations Associate**
+🏆 **Scrum Fundamentals Certified (SFC™)** 
+🏆 **Scrum Fundamentals Certified (SFC™)** 
+🏆 **Scrum Fundamentals Certified (SFC™)** 
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
