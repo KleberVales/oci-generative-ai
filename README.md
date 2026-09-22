@@ -42,7 +42,6 @@
 
 ### 2.2.1 Introduction to LangChain
 ### 2.2.3 Building your first agent using LangChain
-### 2.2.4 Demo: Building your first AI Agent
 ### 2.2.5 LangChain Agent under the hood - Part 1
 ### 2.2.6 LangChain Agent under the hood - Part 2
 
@@ -51,9 +50,7 @@
 ### 2.3.1 What is Model Context Protocol
 ### 2.3.2 MCP Core Components
 ### 2.3.3 Add MCP Server to your first Agent
-### 2.3.4 Demo: MCP server with LangChain Client and Codex
 ### 2.3.5 Real-world MCP Walkthrough
-### 2.3.6 Demo: Real World MCP Server
 
 ## 2.4 Open AI Responses API and Agents SDK Basics
 
