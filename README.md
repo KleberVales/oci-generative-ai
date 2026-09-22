@@ -76,9 +76,7 @@
 ### 2.6.1 Agentic AI for Oracle AI Database
 ### 2.6.2 Introduction to Oracle AI Vector Search
 ### 2.6.3 Oracle AI Vector Search Workflow
-### 2.6.4 Demo: Oracle AI Vector Search
 ### 2.6.5 Oracle AI Database Private Agent Factory
-### 2.6.6 Demo: Private Agent Factory
 ### 2.6.7 Oracle Autonomous AI Database MCP Server
 
 ---
