@@ -138,7 +138,7 @@
 
 **Java & Spring Software Engineer**
 
-Cloud | Microservices | DevOps | Generative AI | methodologies | Architectures
+Cloud | DevOps | Generative AI | methodologies | Architectures
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
