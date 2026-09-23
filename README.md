@@ -150,9 +150,3 @@ Cloud | DevOps | Generative AI | methodologies | Architectures
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
-### Key Knowledge
-
-* **Programming:** Programming Logic, Programming Paradigms, Java, Python
-* **Software Engineering:** Clean Code, SOLID, Design Patterns, Domain-Driven Design
-* **Architecture:** Software Architecture Patterns, Modular Monoliths, Microservices
-
