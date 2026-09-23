@@ -158,6 +158,5 @@ Cloud | DevOps | Generative AI | methodologies | Architectures
 * **Backend:** Spring, REST APIs, Kafka
 * **DevOps & Infrastructure:** Docker, Kubernetes, DevOps, Gradle, Git, GitHub
 * **Cloud & AI:** Cloud Computing, Generative AI, AI Agents
-* **Databases:** Relational & NoSQL Databases
 
 
