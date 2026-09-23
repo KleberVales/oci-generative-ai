@@ -159,6 +159,5 @@ Cloud | DevOps | Generative AI | methodologies | Architectures
 * **DevOps & Infrastructure:** Docker, Kubernetes, DevOps, Gradle, Git, GitHub
 * **Cloud & AI:** Cloud Computing, Generative AI, AI Agents
 * **Databases:** Relational & NoSQL Databases
-* **Methodologies:** Scrum
 
 
