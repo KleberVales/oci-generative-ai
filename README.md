@@ -161,5 +161,4 @@ Cloud | DevOps | Generative AI | methodologies | Architectures
 * **Databases:** Relational & NoSQL Databases
 * **Methodologies:** Scrum
 
-📫 Let's connect? I'm open to collaborations on Cloud, DevOps, and AI projects
 
