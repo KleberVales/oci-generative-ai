@@ -136,7 +136,7 @@
 
 ### Kleber Vales
 
-Software Engineer & AI Agents
+**Java & Spring Software Engineer**
 
 Cloud | Microservices | DevOps | Generative AI | methodologies | Architectures
 
