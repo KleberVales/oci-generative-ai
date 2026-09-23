@@ -157,6 +157,5 @@ Cloud | DevOps | Generative AI | methodologies | Architectures
 * **Architecture:** Software Architecture Patterns, Modular Monoliths, Microservices
 * **Backend:** Spring, REST APIs, Kafka
 * **DevOps & Infrastructure:** Docker, Kubernetes, DevOps, Gradle, Git, GitHub
-* **Cloud & AI:** Cloud Computing, Generative AI, AI Agents
 
 
