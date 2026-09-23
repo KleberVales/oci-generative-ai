@@ -156,6 +156,4 @@ Cloud | DevOps | Generative AI | methodologies | Architectures
 * **Software Engineering:** Clean Code, SOLID, Design Patterns, Domain-Driven Design
 * **Architecture:** Software Architecture Patterns, Modular Monoliths, Microservices
 * **Backend:** Spring, REST APIs, Kafka
-* **DevOps & Infrastructure:** Docker, Kubernetes, DevOps, Gradle, Git, GitHub
-
 
